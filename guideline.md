@@ -39,3 +39,7 @@
 | name |
 |---|
 | minimalist |
+
+| duration |
+|---|
+| 40 minute |
