@@ -23,4 +23,4 @@
 
 | duration |
 |---|
-| 10 menute |
+| 44 menute |
